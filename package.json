@@ -1,0 +1,9 @@
+{
+  "name": "pr-storyboard-fixture",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Fixture repo for GitEase PR Storyboard plugin",
+  "scripts": {
+    "test": "node scripts/smoke.js"
+  }
+}
